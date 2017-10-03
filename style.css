@@ -1,0 +1,81 @@
+.ui.menu.msheader.borderless {
+	padding: 10px 0px 10px 0px;
+	margin-bottom: 0px;
+	border-radius: 0px; 
+	background: #3879cc; 
+	height: 67px;
+}
+
+.ui.menu.topnav.borderless {
+	border-color: #e4e4e4;
+	border-radius: 0px;
+	height: 50px;
+}
+.active.item {
+	background-color: #f1f1f1
+}
+
+.ui.label.transparent {
+	background: transparent;
+}
+
+.item.recent i {
+	padding-left: 10px;
+}
+
+.recent {
+	background-color: #e4f6d4;
+}
+
+.content {
+	color: black;
+}
+
+.featurebox-image {
+	height: 164px;
+    background-size: auto 100% !important;
+    position: relative;
+}
+
+.featurebox-caption strong {
+	font-family: "Roboto", sans-serif;
+    color: #c4ef96;
+}
+.featurebox-caption {
+	display: block;
+	width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 6px;
+    font-size: 12px;
+    line-height: 11px;
+    color: #cdcdcd;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.blog {
+	margin-top: 20px;
+}
+
+.blog h2 {
+	margin: 20px 0 20px 0;
+    padding: 0px 0 0 10px;
+    font-size: 28px;
+    line-height: 30px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    letter-spacing: -1px;
+    border-left: 4px solid #d6d6d6;
+}
+
+.description {
+	padding-left: 10px;
+}
+
+.text.older {
+	padding-left: 10px;
+}
+
+.dropdowncolor {
+	color: black;
+}
